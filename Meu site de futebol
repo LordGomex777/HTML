@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head> <meta charset="UTF-8">
+<title> Futebol: Defesa </title>
+</head>
+
+<body>
+<h1> Setor defensivo de um time de Futebol:</h1>
+<h2>Posições:</h2>
+<table width="100" border="1" > 
+<thead>
+
+		<tr>
+		<th>Posição</th>
+		<th>Abreviação</th>
+		</tr>
+<tbody><tr>
+		<td>Goleiro</td>
+		<td>GK</td>
+		</tr>
+<tbody><tr>
+		<td>Zagueiro</td>
+		<td>ZAG</td>
+		</tr>
+<tbody><tr>
+		<td>Lateral</td>
+		<td>LAT</td>
+		</tr>
+<tfoot>
+		<tr>
+		<th>Pos.</th>
+		<th>Abrev.</th>
+		</tr>
+</tfoot>
+</table>
+</body>
+
+
+<p><i> O setor defensivo de um time é composto basicamente pelo goleiro, zagueiros e laterais. Esses tem como obrigação principal defender o gol, cada um com uma função específica para essa mesma finalidade.  </i></p>
+
+<p><i> <strong>Goleiro:</strong> Também conhecidos como arqueiros ou guarda-redes é o último jogador para defender a meta.Sua zona de ação é a grande e pequena área, aonde ele pode pegar a bola com as mãos.Geralmente é o jogador 
+com mais liderança em campo, sua função vai além de defender, orientando o setor defensivo, com a evolução do futebol estão cada vez mais aperfeiçoando a saída com os pés. Tendem a ser fortes 
+psicologicamente para reagir a momentos de pressão adversária e a possíveis falhas cometidas. Seu grande momento é nas penalidades, aonde geralmente surgem grandes heróis.</i></p>
+
+<p><i> <strong>Zagueiros:</strong>Támbem chamados de Xerifes, são os verdadeiros guardiões do time, tendem a ser os mais fortes fisicamente e prontos para disputas corpo a corpo com os atacantes e demais
+jogadores adversários. Com a evolução do futebol estão cada vez mais técnicos, pois com uma boa saída de bola são capazes de quebrar linhas com bons passes para os jogadores de meio campo,porém sua verdadeira
+função é a marcação. Um time com zagueiros despreparados dificilmente vencem partidas.</i></p>
+
+<p><i> <strong>Laterais:</strong>Os laterais que também um dia ja foram conhecidos como alas, como o própio nome ja diz são os responsáveis por defender as laterais do sistema defensivo, na maioria dos casos são
+jogadores leves e rápidos com capacidades de suportar a velocidade dos atacantes adversários. Embora façam parte da linha defensiva, tem grande importância no ataque, pois apoiam com investidas em profundidade
+e cruzamentos para os atacantes.  
+
+<p> Podemos modificar o centeúdo! </p>
+
+</body>
+
+</html>
